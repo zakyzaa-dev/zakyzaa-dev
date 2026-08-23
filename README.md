@@ -17,7 +17,7 @@ Hi! I am a Software and Game Development student at SMK Negeri 1 Wadaslintang. I
 ## 🛠️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,php,mysql,dotnet,redis,vscode,visualstudio,postman,docker,git,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=cs,py,php,mysql,dotnet,redis,vscode,visualstudio,postman,docker,git,ubuntu,laravel,bootstrap" />
   </a>
 </p>
 
