@@ -52,9 +52,9 @@ Hi! I am a Software and Game Development student at SMK Negeri 1 Wadaslintang. I
 
 ## 📊 My Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KyzaaDev&hide=contribs,prs&show_icons=true&theme=omni" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KyzaaDev&theme=omni&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyzaaDev&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zakyzaa-dev&hide=contribs,prs&show_icons=true&theme=omni" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=zakyzaa-dev&theme=omni&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakyzaa-dev&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </div>
 
 ---
